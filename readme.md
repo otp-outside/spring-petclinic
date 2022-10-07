@@ -2,8 +2,6 @@
 
 Used in [DevSecOps Pipeline Demo](https://github.com/rcarrata/devsecops-demo)
 
-Cool
-
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
