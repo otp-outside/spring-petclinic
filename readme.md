@@ -1,5 +1,7 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
+Trigger Tekton
+
 Used in [DevSecOps Pipeline Demo](https://github.com/rcarrata/devsecops-demo)
 
 ## Understanding the Spring Petclinic application with a few diagrams
